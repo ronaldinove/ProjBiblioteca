@@ -2,6 +2,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Collections;
 using Microsoft.EntityFrameworkCore;
+using System.Runtime.CompilerServices;
 
 namespace Biblioteca.Models
 {
@@ -41,11 +42,11 @@ namespace Biblioteca.Models
                     switch(filtro.TipoFiltro)
                     {
                         case "Autor":
-                            query = bc.Livros.Where(l => l.Autor.Contains(filtro.Filtro));
+                            query = bc.Livros.Where(l => l.Autor.ToUpper().Contains(filtro.Filtro.ToUpper()));
                         break;
 
                         case "Titulo":
-                            query = bc.Livros.Where(l => l.Titulo.Contains(filtro.Filtro));
+                            query = bc.Livros.Where(l => l.Titulo.ToUpper().Contains(filtro.Filtro.ToUpper()));
                         break;
 
                         default:

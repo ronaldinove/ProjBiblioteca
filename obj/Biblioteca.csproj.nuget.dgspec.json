@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos 1\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos 1\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos 1\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos 1\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos 1\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\TI\\Documentar e testar\\Biblioteca - Carlos\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

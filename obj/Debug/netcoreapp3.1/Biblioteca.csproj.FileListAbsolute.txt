@@ -172,3 +172,7 @@ C:\Users\Usuario\Desktop\TI\Documentar e testar\Biblioteca - Carlos 1\Biblioteca
 C:\Users\Usuario\Desktop\TI\Documentar e testar\Biblioteca - Carlos 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Usuario\Desktop\TI\Documentar e testar\Biblioteca - Carlos 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Usuario\Desktop\TI\Documentar e testar\Biblioteca - Carlos 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TI\Documentar e testar\Biblioteca - Carlos\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\administrador.cshtml.g.cs
+C:\Users\Usuario\Desktop\TI\Documentar e testar\Biblioteca - Carlos\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Usuario\Desktop\TI\Documentar e testar\Biblioteca - Carlos\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\Usuario\Desktop\TI\Documentar e testar\Biblioteca - Carlos\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs

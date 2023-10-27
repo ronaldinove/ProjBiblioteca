@@ -19,10 +19,23 @@ a {
   align-items: center;
 }
 
+.button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+}
+
+.nav-item{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 /* Sticky footer styles

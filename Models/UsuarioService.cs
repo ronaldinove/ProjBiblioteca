@@ -41,9 +41,18 @@ namespace Biblioteca.Models
             using (BibliotecaContext bc = new BibliotecaContext())
             {
                 Usuario usuarioBD = bc.Usuarios.Find(u.Id);
+
                 usuarioBD.Login = u.Login;
                 usuarioBD.Nome = u.Nome;
-                usuarioBD.Senha = u.Senha;
+
+                if(usuarioBD.Senha != u.Senha)
+                {
+                    usuarioBD.Senha = Criptografo.TextoCriptografado(u.Senha);
+                }
+                else{
+                    usuarioBD.Senha = u.Senha;
+                }
+
                 usuarioBD.Tipo = u.Tipo;
 
 
